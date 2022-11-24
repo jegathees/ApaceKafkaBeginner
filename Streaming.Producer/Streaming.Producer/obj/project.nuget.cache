@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1zxHUoUcG9/frx3i9L9hNLpbWsWkgefF/1hT+MCNCMp+kNT13ajTnc/Ns+Non04CfZvd70AqJCO61EDJpasl3A==",
+  "success": true,
+  "projectFilePath": "D:\\Jags\\Cision\\Kafka\\Streaming.Producer\\Streaming.Producer\\Streaming.Producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AL2289\\.nuget\\packages\\confluent.kafka\\1.9.3\\confluent.kafka.1.9.3.nupkg.sha512",
+    "C:\\Users\\AL2289\\.nuget\\packages\\librdkafka.redist\\1.9.2\\librdkafka.redist.1.9.2.nupkg.sha512",
+    "C:\\Users\\AL2289\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\AL2289\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
